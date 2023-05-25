@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#\Capa_Presentacion1.0\Proyecto_C\bin\Debug\Proyecto_C.exe.config
+C:\Users\User\Desktop\C#\Capa_Presentacion1.0\Proyecto_C\bin\Debug\Proyecto_C.exe
+C:\Users\User\Desktop\C#\Capa_Presentacion1.0\Proyecto_C\bin\Debug\Proyecto_C.pdb
+C:\Users\User\Desktop\C#\Capa_Presentacion1.0\Proyecto_C\obj\Debug\Proyecto_C.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\Capa_Presentacion1.0\Proyecto_C\obj\Debug\Proyecto_C.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\Capa_Presentacion1.0\Proyecto_C\obj\Debug\Proyecto_C.Frm_Login.resources
+C:\Users\User\Desktop\C#\Capa_Presentacion1.0\Proyecto_C\obj\Debug\Proyecto_C.Properties.Resources.resources
+C:\Users\User\Desktop\C#\Capa_Presentacion1.0\Proyecto_C\obj\Debug\Proyecto_C.Frm_Registro_Usuario.resources
+C:\Users\User\Desktop\C#\Capa_Presentacion1.0\Proyecto_C\obj\Debug\Proyecto_C.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\Capa_Presentacion1.0\Proyecto_C\obj\Debug\Proyecto_C.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Capa_Presentacion1.0\Proyecto_C\obj\Debug\Proyecto_C.exe
+C:\Users\User\Desktop\C#\Capa_Presentacion1.0\Proyecto_C\obj\Debug\Proyecto_C.pdb
+C:\Users\User\Desktop\C#\Capa_Presentacion1.0\Proyecto_C\obj\Debug\Proyecto_C.Frm_Inicio.resources
+C:\Users\User\Desktop\C#\Capa_Presentacion1.0\Proyecto_C\obj\Debug\Proyecto_C.FrmHoteles.resources
+C:\Users\User\Desktop\C#\Capa_Presentacion1.0\Proyecto_C\obj\Debug\Proyecto_C.FrmPago_Digital.resources
